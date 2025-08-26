@@ -1,4 +1,4 @@
-# wTimeLocked NFT System
+# TimeLocked NFT System
 TimeLocked NFT System
 Project Description
 The TimeLocked NFT System is an innovative blockchain-based solution that creates Non-Fungible Tokens (NFTs) with time-locked content reveal functionality. Unlike traditional NFTs where all content is immediately accessible, this system allows creators to mint NFTs with hidden content that only becomes available after specific time periods or conditions are met.
