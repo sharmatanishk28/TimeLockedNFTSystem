@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da52fcab-dfbf-4aca-80e7-95df986fd8ea" /># web3
+# web3
 TimeLocked NFT System
 Project Description
 The TimeLocked NFT System is an innovative blockchain-based solution that creates Non-Fungible Tokens (NFTs) with time-locked content reveal functionality. Unlike traditional NFTs where all content is immediately accessible, this system allows creators to mint NFTs with hidden content that only becomes available after specific time periods or conditions are met.
@@ -46,15 +46,9 @@ Virtual Reality: Integrate with VR platforms for immersive time-locked experienc
 Real-world Integration: Connect digital time locks with physical world events and deliveries
 Decentralized Governance: Implement DAO structures for community-driven platform evolution
 Contract Address Details
-Contract Address: [To be added after deployment]
 
 Network: Stacks Mainnet
 
-Contract Name: timelocked-nft-system
-
-Deployment Block: [To be added after deployment]
-
-Verification Status: [To be added after verification]
 
 Key Contract Functions
 mint-timelocked-nft: Creates a new NFT with time-locked content
@@ -67,6 +61,9 @@ get-unlocked-content: Retrieves unlocked content (owner only)
 get-total-nfts: Returns total number of minted NFTs
 For technical support, integration assistance, or partnership inquiries, please refer to our documentation or contact our development team.
 
+This project is part of the decentralized publishing revolution. Join us in reshaping how literature is funded, published, and shared with the world.
 
-<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/00371028-f8c9-4d8c-b591-831621d8feb1" />
+
+This project is part of the decentralized publishing revolution. Join us in reshaping how literature is funded, published, and shared with the world. ST8QJHY3ABSBD80P04E51ZTEBTJP7K1XY7ER395M.TimeLockedNFTSystem
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/8f3bdc5f-4850-4a94-b09c-acbc8dbab6ea" />
 
